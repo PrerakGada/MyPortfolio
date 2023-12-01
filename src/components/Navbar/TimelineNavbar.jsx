@@ -15,7 +15,7 @@ const Navbar = () => {
             <div className="col-xl-12 d-flex align-items-center lefty">
               <h5 className="ld-flex mr-auto devman">
                 <img src="./developer.png" alt="" />
-                Jay.Jain <span className="blink"> _</span>
+                Prerak Gada<span className="blink"> _</span>
               </h5>
               <nav className="nav-menu  mainMenu">
                 <ul>

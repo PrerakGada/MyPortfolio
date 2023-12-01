@@ -1,5 +1,5 @@
 import decor3 from "../../images/decoration/Group-31.png";
-import intro from "../../images/banner.png";
+import intro from "../../images/profile.png";
 import "./Intro.css";
 
 const Intro = () => {
@@ -22,7 +22,7 @@ const Intro = () => {
                   data-aos="fade-down"
                   data-aos-duration="1500"
                 >
-                  SOFTWARE DEVELOPER | DATA ANALYST
+                  SOFTWARE INNOVATOR | ENTREPRENEUR
                 </h3>
                 <h3
                   className="name"
@@ -36,14 +36,15 @@ const Intro = () => {
                   data-aos="fade-down"
                   data-aos-duration="1700"
                 >
-                  Jay Jain
+                  Prerak Gada
                 </h3>
                 <p
                   className="myinfo"
                   data-aos="fade-down"
                   data-aos-duration="1800"
                 >
-                  Just another guy programming my life for 21 years from Mumbai, India.
+                  Just another guy programming my life for 20 years from Mumbai,
+                  India.
                 </p>
               </div>
               <div
@@ -71,7 +72,7 @@ const Intro = () => {
                 <ul>
                   <li>
                     <a
-                      href="tel:+91 9867466628"
+                      href="tel:+91 9224598850"
                       className="icon-link"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -79,7 +80,7 @@ const Intro = () => {
                       <i className="bx bx-phone"></i>
                     </a>
                     <a
-                      href="mailto:jay4emails@gmail.com"
+                      href="mailto:mail@prerakgada.in"
                       className="icon-link"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -87,7 +88,7 @@ const Intro = () => {
                       <i className="bx bxl-gmail"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/jay-ra-jain/"
+                      href="https://www.linkedin.com/in/prerakgada/"
                       className="icon-link"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -95,12 +96,20 @@ const Intro = () => {
                       <i className="bx bxl-linkedin"></i>
                     </a>
                     <a
-                      href="https://github.com/Jay4Codes"
+                      href="https://github.com/prerakgada"
                       className="icon-link"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="bx bxl-github"></i>
+                    </a>
+                    <a
+                      href="https://instagram.com/prerakgada"
+                      className="icon-link"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="bx bxl-instagram"></i>
                     </a>
                   </li>
                 </ul>
